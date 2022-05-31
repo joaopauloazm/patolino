@@ -23,6 +23,9 @@ public abstract class Pessoa {
         return documento;
     }
 
+    //public String geraDocumento(){
+    //}
+
 }
 // documento
 //nome
